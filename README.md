@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ZabithSalam
 - 👀 I’m interested in Software Testing, Web Developing (Wordpress), Graphic Designing, technical support (software, hardware)
 - 🌱 I’m currently learning cucumber, selenium, testNG, wordpress, Laravel
-- 📫 zabith.365@gmail.com, https://www.linkedin.com/in/zabith-salam-808708224/
+- 📫 zabithsalam.2000@gmail.com, https://www.linkedin.com/in/zabith-salam-808708224/
 - ⚡ Fun fact: is coding is eazee beezee..? **** let me slap you.
 
 <!---
